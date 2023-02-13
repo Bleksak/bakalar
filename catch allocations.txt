@@ -1,0 +1,25 @@
+    public byte[] transform(ClassLoader loader, String className, Class<?> classBeingRedefined, ProtectionDomain protectionDomain, byte[] classfileBuffer) throws IllegalClassFormatException {
+        className = className.replace("/", ".");
+        try {
+            ClassPool pool = ClassPool.getDefault();
+            CtClass cc = pool.get(className);
+            if (!cc.isInterface() && !Modifier.isAbstract(cc.getModifiers())) {
+                CtConstructor[] constructors = cc.getConstructors();
+                for (CtConstructor constructor : constructors) {
+                    constructor.insertBefore("com.example.MyCounter.increment();");
+                }
+                return cc.toBytecode();
+            }
+        } catch (NotFoundException | CannotCompileException | IOException e) {
+            e.printStackTrace();
+        }
+        return classfileBuffer;
+    }
+
+
+
+constructor.insertBefore("com.example.MyCounter.increment(); com.example.MyLogger.log(this);");
+
+A NEBO
+
+constructor.insertAt(0, "com.example.MyCounter.increment(); com.example.MyLogger.log($0);");
