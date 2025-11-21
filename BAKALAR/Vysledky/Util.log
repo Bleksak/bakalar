@@ -1,0 +1,332 @@
+2023-05-02 15:30:27,663 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:30:27,666 TRACE  [main] Object size: 16
+2023-05-02 15:30:27,666 TRACE  [main] Object type: OptionalTest
+2023-05-02 15:30:27,667 TRACE  [main] Object allocated at: Main.java:22
+2023-05-02 15:30:27,667 TRACE  [main] Object size: 16
+2023-05-02 15:30:27,667 TRACE  [main] Object type: OptionalTest
+2023-05-02 15:30:27,667 TRACE  [main] Object allocated at: Main.java:23
+2023-05-02 15:30:27,667 TRACE  [main] Object size: 16
+2023-05-02 15:30:27,667 TRACE  [main] Object type: OptionalTest
+2023-05-02 15:30:27,667 TRACE  [main] Object allocated at: Main.java:24
+2023-05-02 15:30:27,667 TRACE  [main] Object size: 16
+2023-05-02 15:30:27,667 TRACE  [main] Object type: OptionalTest
+2023-05-02 15:30:27,667 TRACE  [main] Object allocated at: Main.java:25
+2023-05-02 15:30:27,667 TRACE  [main] Object size: 16
+2023-05-02 15:30:27,667 TRACE  [main] Object type: OptionalTest
+2023-05-02 15:30:27,668 TRACE  [main] Object allocated at: Main.java:26
+2023-05-02 15:30:27,668 TRACE  [main] Object size: 16
+2023-05-02 15:30:27,668 TRACE  [main] Object type: OptionalTest
+2023-05-02 15:30:27,668 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,668 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,668 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,668 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,668 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,668 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,668 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,668 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,668 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,668 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,668 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,668 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,668 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,668 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,668 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,668 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,668 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,668 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,669 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,669 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,669 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,669 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,669 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,669 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,669 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,669 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,669 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,669 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,669 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,669 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,669 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,669 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,669 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,669 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,669 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,670 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,670 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,670 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,670 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,670 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,670 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,670 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,670 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,670 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,670 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,670 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,670 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,670 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,670 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,670 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,670 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,670 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,670 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,670 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,671 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,671 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,671 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,671 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,671 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,671 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,671 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,671 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,671 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,671 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,671 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,671 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,671 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,671 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,671 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,671 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,671 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,671 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,671 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,671 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,671 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,672 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,672 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,672 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,672 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,672 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,672 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,672 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,672 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,672 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,672 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,672 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,672 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,672 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,672 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,672 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,672 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,672 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,672 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,672 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,672 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,672 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,673 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,673 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,673 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,673 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,673 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,673 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,673 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,673 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,673 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,673 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,673 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,673 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,673 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,673 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,673 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,673 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,673 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,674 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,674 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,674 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,674 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,674 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,674 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,674 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,674 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,674 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,674 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,674 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,674 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,674 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,674 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,674 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,674 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,674 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,674 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,674 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,674 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,674 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,674 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,675 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,675 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,675 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,675 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,675 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,675 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,675 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,675 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,675 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,675 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,675 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,675 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,675 TRACE  [main] Object allocated at: Main.java:31
+2023-05-02 15:30:27,675 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,675 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,675 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,675 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,675 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,675 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,675 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,676 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,676 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,676 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,676 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,676 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,676 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,676 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,676 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,676 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,676 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,676 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,676 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,676 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,676 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,676 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,676 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,676 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,676 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,676 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,677 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,677 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,677 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,677 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,677 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,677 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,677 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,677 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,677 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,677 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,677 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,677 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,677 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,677 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,677 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,677 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,677 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,677 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,677 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,677 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,677 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,677 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,677 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,678 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,678 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,678 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,678 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,678 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,678 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,678 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,678 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,678 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,678 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,678 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,678 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,678 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,678 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,678 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,678 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,678 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,678 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,678 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,678 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,678 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,678 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,679 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,679 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,679 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,679 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,679 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,679 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,679 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,679 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,679 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,679 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,679 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,679 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,679 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,679 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,679 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,679 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,679 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,679 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,679 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,680 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,680 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,680 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,680 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,680 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,680 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,680 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,680 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,680 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,680 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,680 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,680 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,680 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,680 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,680 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,680 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,680 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,680 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,680 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,680 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,680 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,680 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,680 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,681 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,681 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,681 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,681 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,681 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,681 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,681 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,681 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,681 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,681 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,681 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,681 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,681 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,681 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,681 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,681 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,681 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,681 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,681 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,681 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,681 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,681 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,681 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,681 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,681 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,681 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,681 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,682 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,682 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,682 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,682 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,682 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,682 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,682 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,682 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,682 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,682 TRACE  [main] Object allocated at: Main.java:38
+2023-05-02 15:30:27,682 TRACE  [main] Object size: 24
+2023-05-02 15:30:27,682 TRACE  [main] Object type: ArrayList
+2023-05-02 15:30:27,684 INFO  [main] Main.java:38 allocated 1200 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:21 allocated 16 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:22 allocated 16 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:31 allocated 1200 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:25 allocated 16 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:26 allocated 16 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:23 allocated 16 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:24 allocated 16 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:Main:arrayListTest allocated 2400 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:Main:optionalTest allocated 96 bytes
+2023-05-02 15:30:27,684 INFO  [main] Main.java:Main allocated 2496 bytes
+2023-05-02 15:30:27,688 INFO  [main] Found 1 duplicates of object: OptionalTest first allocated at: Main.java:21
+2023-05-02 15:30:27,688 INFO  [main] Found 1 duplicates of object: OptionalTest first allocated at: Main.java:25
+2023-05-02 15:30:27,691 INFO  [main] Found 49 duplicates of object: java.util.ArrayList first allocated at: Main.java:31

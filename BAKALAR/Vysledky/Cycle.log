@@ -1,0 +1,20 @@
+2023-05-02 15:28:13,288 TRACE  [main] Object allocated at: Main.java:12
+2023-05-02 15:28:13,291 TRACE  [main] Object size: 16
+2023-05-02 15:28:13,291 TRACE  [main] Object type: CyclicA
+2023-05-02 15:28:13,292 TRACE  [main] Object allocated at: Main.java:13
+2023-05-02 15:28:13,292 TRACE  [main] Object size: 16
+2023-05-02 15:28:13,292 TRACE  [main] Object type: CyclicB
+2023-05-02 15:28:13,292 TRACE  [main] Object allocated at: Main.java:17
+2023-05-02 15:28:13,292 TRACE  [main] Object size: 16
+2023-05-02 15:28:13,292 TRACE  [main] Object type: CyclicA
+2023-05-02 15:28:13,292 TRACE  [main] Object allocated at: Main.java:18
+2023-05-02 15:28:13,292 TRACE  [main] Object size: 16
+2023-05-02 15:28:13,292 TRACE  [main] Object type: CyclicB
+2023-05-02 15:28:13,295 INFO  [main] Main.java:18 allocated 16 bytes
+2023-05-02 15:28:13,295 INFO  [main] Main.java:17 allocated 16 bytes
+2023-05-02 15:28:13,295 INFO  [main] Main.java:12 allocated 16 bytes
+2023-05-02 15:28:13,295 INFO  [main] Main.java:13 allocated 16 bytes
+2023-05-02 15:28:13,295 INFO  [main] Main.java:Main:cyclicTest allocated 64 bytes
+2023-05-02 15:28:13,295 INFO  [main] Main.java:Main allocated 64 bytes
+2023-05-02 15:28:13,299 INFO  [main] Found 1 duplicates of object: CyclicB first allocated at: Main.java:13
+2023-05-02 15:28:13,299 INFO  [main] Found 1 duplicates of object: CyclicA first allocated at: Main.java:12

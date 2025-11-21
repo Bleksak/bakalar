@@ -1,0 +1,1214 @@
+2023-05-02 15:28:28,217 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,220 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,221 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,221 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,221 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,221 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,221 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,221 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,221 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,222 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,222 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,222 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,222 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,222 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,222 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,222 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,222 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,222 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,222 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,222 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,222 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,223 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,223 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,223 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,223 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,223 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,223 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,223 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,223 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,223 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,223 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,223 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,223 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,223 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,223 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,223 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,223 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,223 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,223 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,223 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,223 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,223 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,224 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,224 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,224 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,224 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,224 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,224 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,224 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,224 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,224 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,224 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,224 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,224 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,224 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,224 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,224 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,224 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,224 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,224 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,224 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,224 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,224 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,225 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,225 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,225 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,225 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,225 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,225 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,225 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,225 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,225 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,225 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,225 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,225 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,225 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,225 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,225 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,225 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,225 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,225 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,225 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,225 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,226 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,226 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,226 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,226 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,226 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,226 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,226 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,226 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,226 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,226 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,226 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,226 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,226 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,226 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,226 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,226 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,226 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,226 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,226 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,226 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,226 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,227 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,227 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,227 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,227 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,227 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,227 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,227 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,227 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,227 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,227 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,227 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,227 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,227 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,227 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,227 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,227 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,227 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,227 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,227 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,227 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,227 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,227 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,228 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,228 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,228 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,228 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,228 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,228 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,228 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,228 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,228 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,228 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,228 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,228 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,228 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,228 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,228 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,228 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,228 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,228 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,229 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,229 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,229 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,229 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,229 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,229 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,229 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,229 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,229 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,229 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,229 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,229 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,229 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,229 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,229 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,229 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,229 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,229 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,229 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,229 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,229 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,229 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,229 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,230 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,230 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,230 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,230 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,230 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,230 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,230 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,230 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,230 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,230 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,230 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,230 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,230 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,230 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,230 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,230 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,230 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,230 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,230 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,230 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,230 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,230 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,230 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,231 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,231 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,231 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,231 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,231 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,231 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,231 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,231 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,231 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,231 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,231 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,231 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,231 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,231 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,231 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,231 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,231 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,231 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,231 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,231 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,231 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,231 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,231 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,232 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,232 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,232 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,232 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,232 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,232 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,232 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,232 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,232 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,232 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,232 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,232 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,232 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,232 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,232 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,232 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,232 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,232 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,232 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,232 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,232 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,232 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,232 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,232 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,233 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,233 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,233 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,233 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,233 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,233 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,233 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,233 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,233 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,233 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,233 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,233 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,233 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,233 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,233 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,233 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,233 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,233 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,233 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,233 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,233 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,233 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,233 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,234 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,234 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,234 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,234 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,234 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,234 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,234 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,234 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,234 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,234 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,234 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,234 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,234 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,234 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,234 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,234 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,234 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,234 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,234 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,234 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,234 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,234 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,234 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,234 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,234 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,235 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,235 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,235 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,235 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,235 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,235 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,235 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,235 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,235 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,235 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,235 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,235 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,235 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,235 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,235 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,235 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,235 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,235 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,235 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,236 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,236 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,236 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,236 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,236 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,236 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,236 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,236 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,236 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,236 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,236 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,237 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,237 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,237 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,237 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,237 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,237 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,237 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,237 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,237 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,237 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,237 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,237 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,237 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,237 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,237 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,237 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,237 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,237 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,237 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,237 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,237 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,237 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,237 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,237 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,237 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,237 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,237 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,238 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,238 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,238 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,238 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,238 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,238 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,238 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,238 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,238 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,238 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,238 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,238 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,238 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,238 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,238 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,238 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,238 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,238 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,238 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,238 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,238 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,238 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,238 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,238 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,238 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,238 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,238 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,239 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,239 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,239 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,239 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,239 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,239 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,239 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,239 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,239 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,239 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,239 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,240 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,240 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,240 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,241 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,241 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,241 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,242 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,242 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,242 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,242 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,242 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,242 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,242 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,242 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,242 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,242 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,242 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,242 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,242 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,242 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,242 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,242 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,242 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,242 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,242 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,242 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,242 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,242 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,242 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,242 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,243 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,243 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,243 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,243 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,243 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,243 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,243 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,243 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,243 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,243 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,243 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,243 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,243 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,243 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,243 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,243 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,243 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,243 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,243 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,243 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,243 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,243 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,244 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,244 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,244 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,244 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,244 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,244 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,244 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,244 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,244 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,244 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,244 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,245 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,245 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,245 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:21
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,246 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,246 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,246 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,247 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,247 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,247 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,247 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,247 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,247 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,247 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,247 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,247 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,247 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,247 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,247 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,247 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,247 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,247 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,247 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,247 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,247 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,247 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,247 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,247 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,247 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,248 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,248 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,248 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,249 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,249 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,249 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,250 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,250 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,250 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,251 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,251 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,251 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,252 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,252 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,252 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,253 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,253 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,253 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,254 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,254 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,254 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,255 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,255 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,255 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,256 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,256 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,256 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,257 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,257 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,257 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,258 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,258 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,258 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,259 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,259 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,259 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,260 TRACE  [main] Object allocated at: Main.java:28
+2023-05-02 15:28:28,260 TRACE  [main] Object size: 24
+2023-05-02 15:28:28,260 TRACE  [main] Object type: Link
+2023-05-02 15:28:28,263 INFO  [main] Main.java:28 allocated 4800 bytes
+2023-05-02 15:28:28,263 INFO  [main] Main.java:21 allocated 4800 bytes
+2023-05-02 15:28:28,263 INFO  [main] Main.java:Main:deepObjectTest allocated 9600 bytes
+2023-05-02 15:28:28,263 INFO  [main] Main.java:Main allocated 9600 bytes
+2023-05-02 15:28:28,269 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
+2023-05-02 15:28:28,271 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
+2023-05-02 15:28:28,272 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
+2023-05-02 15:28:28,273 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
+2023-05-02 15:28:28,274 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
+2023-05-02 15:28:28,275 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
+2023-05-02 15:28:28,276 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
+2023-05-02 15:28:28,277 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
+2023-05-02 15:28:28,281 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
+2023-05-02 15:28:28,282 INFO  [main] Found 19 duplicates of object: Link first allocated at: Main.java:21
